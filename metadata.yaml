@@ -1,0 +1,45 @@
+_repo: Lapsuus-Poika-ika-Nuoruus-1-Lapsuus_52981
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Järnefelt, Arvid
+    aliases:
+    - Kahila, Hilja
+    - Jarnefelt, Arvid
+    birthdate: 1861
+    deathdate: 1932
+    gutenberg_agent_id: '4252'
+    url: http://www.gutenberg.org/2009/agents/4252
+    wikipedia: http://fi.wikipedia.org/wiki/Arvid_J%C3%A4rnefelt
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoy, Graf Leo
+    - Толстой, Лев Николаевич
+    - Tolstoï, Léon
+    - Tolstoy, Lev N.
+    - Tolstoi, Leo
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_issued: '2016-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52981'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russia -- History -- 1801-1917 -- Fiction'
+- !lcsh 'Tolstoy, Leo, graf, 1828-1910 -- Childhood and youth -- Fiction'
+- !lcsh 'Autobiographical fiction'
+- !lcsh 'Russia -- Social life and customs -- 1533-1917 -- Fiction'
+- GITenberg
+title: 'Lapsuus, Poika-ikä, Nuoruus 1: Lapsuus'
+url: http://www.gutenberg.org/ebooks/52981
